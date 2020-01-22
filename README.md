@@ -1,7 +1,7 @@
 ﻿# django-blog-app
  Clone This Project (Make Sure You Have Git Installed)
 
-https://github.com/mustafamuratcoskun/DjangoBlogApp.git
+https://github.com/xramm57/DjangoBlogApp.git
 
 Install Dependencies
 
