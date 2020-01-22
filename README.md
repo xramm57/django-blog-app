@@ -1,7 +1,7 @@
 ﻿# django-blog-app
  Clone This Project (Make Sure You Have Git Installed)
 
-https://github.com/xramm57/DjangoBlogApp.git
+https://github.com/xramm57/django-blog-app.git
 
 Install Dependencies
 
@@ -17,4 +17,5 @@ Create SuperUser
 python manage.py createsuperuser
 
 After all these steps , you can start testing and developing this project.
-That's it! Happy Coding!
+
+Happy Coding!
